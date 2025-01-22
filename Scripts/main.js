@@ -18,7 +18,7 @@ multiply(2.64, -1.962/8.65);
 // });
 
 document.querySelector("html").addEventListener("click", () => {
-    alert("Ouch! Stop poking me!");
+    alert(":D");
 });
 
 const myImage = document.querySelector("img"); 
